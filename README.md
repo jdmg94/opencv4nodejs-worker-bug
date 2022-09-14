@@ -1,4 +1,4 @@
-# @u/opencv4nodejs Worker Thread bug
+# @u4/opencv4nodejs Worker Thread bug
 
 ### Steps To Reproduce:
  - download repo
