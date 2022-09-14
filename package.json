@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "control": "node control.js"
   },
   "author": "Jose Munoz",
   "license": "ISC",
